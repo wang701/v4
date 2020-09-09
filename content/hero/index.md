@@ -1,8 +1,10 @@
 ---
 title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+name: 'Yang Wang'
+subtitle: 'I build things for agriculture.'
 buttonText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
+I'm a Ph.D. candidate at Open Ag Technologies and Systems Center at Purdue
+University with a strong interest in architecting and implementing hardware &
+software tools for pratical applications.

@@ -1,19 +1,26 @@
 ---
 title: 'About Me'
-avatar: './me.jpg'
+avatar: './moi.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
-  - Vue
-  - Node.js
-  - WordPress
+  - C
+  - C++
+  - Python
+  - Yocto
+  - MATLAB
+  - Docker
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hello! I'm Yang, a Ph.D. candidate working at Open Ag Technologies and
+Systems Center of Purdue University.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+I enjoy building things from ground up, especially handy hardware gadgets and
+useful software applications. I always strive to solve problems in an
+efficient and performant manner.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+I am the chief maker behind [ISOBlue](https://www.isoblue.org/) - a
+plug-and-play device that helps me collect CAN and GPS logs from different
+kinds of ag machinery automagically for my research. I have used these data
+to perform extensive data analysis and forensics for generating cool
+visualizations and ag-related insights.
 
-Here are a few technologies I've been working with recently:
+Here are a few technologies I've been using recently:
