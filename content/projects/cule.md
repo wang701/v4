@@ -10,4 +10,4 @@ company: 'Purdue'
 ---
 
 A rule-based algorithm coded in MATLAB to infer crop transfer events from
-combine harvesters to other machines.
+combine harvesters to other machines using GPS tracks.

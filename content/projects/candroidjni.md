@@ -1,8 +1,7 @@
 ---
 date: '2016-01-10'
-title: 'J1939 Java Native Interface'
+title: 'CANdroid-lib'
 github: 'https://github.com/OATS-Group/CANdroid-lib'
-#external: 'https://www.ispag.org/proceedings/?action=download&item=5338'
 tech:
   - Java
   - JNI

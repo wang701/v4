@@ -7,7 +7,7 @@ external: 'https://drive.google.com/file/d/0B6AeE6Ne4z3aeHJXcXc5VFpBTVRoTGRKa0t1
 tech:
   - Java
   - Android
-  - Jave Native Interface
+  - JNI
   - CAN
 showInProjects: true
 ---

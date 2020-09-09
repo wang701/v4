@@ -5,7 +5,7 @@ const IconLogo = () => (
     <title>Logo</title>
     <g transform="translate(-8.000000, -2.000000)">
       <g transform="translate(11.000000, 5.000000)">
-        <text x="24" y="61" fill="currentColor" fontSize="54px" fontFamily="Calibre, serif">
+        <text x="24" y="62" fill="currentColor" fontSize="54px" fontFamily="Calibre, serif">
           Y
         </text>
         <polygon
