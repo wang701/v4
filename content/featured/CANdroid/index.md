@@ -12,7 +12,7 @@ tech:
 showInProjects: true
 ---
 
-A Android tablet based CAN data logger for agricultural machinery. Android
+An Android tablet based CAN data logger for agricultural machinery. Android
 kernel with CAN functionalities. Custom Java Native Interface implementation
 coupled with a simple Android application for user to start/stop data
 logging.
