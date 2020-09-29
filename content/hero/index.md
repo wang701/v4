@@ -7,4 +7,4 @@ buttonText: 'Get In Touch'
 
 I'm a Ph.D. candidate at Open Ag Technologies and Systems Center at Purdue
 University with a strong interest in architecting and implementing hardware &
-software tools for pratical applications.
+software tools for practical applications.
