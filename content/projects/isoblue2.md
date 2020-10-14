@@ -3,6 +3,7 @@ date: '2016-09-14'
 title: 'ISOBlue 2.0'
 github: 'https://github.com/ISOBlue/isoblue2/'
 tech:
+  - Yocto
   - C
   - Python
 showInProjects: true
