@@ -3,7 +3,7 @@ date: '2015-08-01'
 title: 'Graduate RA & TA'
 company: 'OATS Center of Purdue'
 location: 'West Lafayette, IN'
-range: 'Aug 2015 - Present'
+range: 'Aug 2015 - Aug 2021'
 url: 'https://oatscenter.org/'
 ---
 
