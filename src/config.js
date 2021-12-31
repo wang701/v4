@@ -1,13 +1,13 @@
 module.exports = {
-  siteTitle: 'Yang Wang | Graduate Researcher',
+  siteTitle: 'Yang Wang | Senior Navigation Engineer',
   siteDescription:
-    'Yang Wang is a Ph.D. candidate at Open Ag Technologies and Systems Center at Purdue University with a strong interest in architecting and implementing hardware & software tools for pratical applications.',
+    'Yang Wang is a Senior Navigation Engineer at John Deere ISG.',
   siteKeywords:
-    'Yang Wang, yang, wang, wang701, graduate researcher, systems engineer, embedded systems, purdue',
+    'Yang Wang, yang, wang, navigation engineer, embedded systems, purdue, deere, john deere',
   siteUrl: 'https://waterkingwatergoat.com',
   siteLanguage: 'en_US',
   name: 'Yang Wang',
-  location: 'West Lafayette, IN',
+  location: 'Torrance, CA',
   email: 'purduewang@gmail.com',
   github: 'https://github.com/wang701',
   socialMedia: [
