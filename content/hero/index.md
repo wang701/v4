@@ -5,6 +5,6 @@ subtitle: 'I build things for agriculture.'
 buttonText: 'Get In Touch'
 ---
 
-I'm a Senior Navigation Engineer at John Deere Intelligent Solutions Group. I
-have a strong interest in architecting and implementing navigation algorithms
-for GNSS receivers.
+I'm a Senior Data Scientist at the Climate Corporation. I have a strong interest
+in designing data processing and visualizing solutions for all sorts of
+agricultural machine data.

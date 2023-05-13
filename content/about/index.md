@@ -8,19 +8,16 @@ skills:
   - MATLAB
 ---
 
-Hello! I'm Yang, a Senior Navigation Engineer at John Deere Intelligent
-Solutions Group. My current interest are architecting and implementing
-navigation algorithms for GNSS receivers.
-
-I enjoy building things from ground up, especially handy embedded hardware
-and useful software applications. I always strive to solve problems in an
-efficient and performant manner.
+Hello! I'm Yang, a Senior Data Scientist at the Climate Corporation under Bayer.
+Although my title says I am a "scientist", I see myself more of an architect
+for designing data/signal processing and visualization strategies for all sorts
+of agricultural machinery data.
 
 I graduated from Purdue University in August 2021 with a Ph.D. in Electrical
-Engineering. I was the chief maker behind [ISOBlue](https://www.isoblue.org/) -
-a plug-and-play device that helped me collect CAN and GNSS logs from different
-kinds of ag machinery automagically for my research. I used these data to
-perform extensive data analysis and forensics for generating cool
-visualizations and ag-related insights.
+Engineering. My strong interests in both agriculture and hardware motivated me
+to make [ISOBlue](https://www.isoblue.org/) - a plug-and-play device that helped
+me collect CAN and GNSS logs from different kinds of ag machinery automagically
+for my Ph.D. research. I joined John Deere ISG after finishing my Ph.D. and
+worked on writing embedded software for high-precision GNSS receivers.
 
 Here are a few technologies I've been using recently:
