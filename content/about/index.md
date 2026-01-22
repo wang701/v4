@@ -8,16 +8,10 @@ skills:
   - MATLAB
 ---
 
-Hello! I'm Yang, a Senior Data Scientist at the Climate Corporation under Bayer.
-Although my title says I am a "scientist", I see myself more of an architect
-for designing data/signal processing and visualization strategies for all sorts
-of agricultural machinery data.
+Hello! I am currently a Senior Data Scientist at Bayer Crop Science (previously Climate Corporation). My daily tasks focus on crafting data transfomers and pipelines for spatio-temporal data from agricultural machinery.
 
-I graduated from Purdue University in August 2021 with a Ph.D. in Electrical
-Engineering. My strong interests in both agriculture and hardware motivated me
-to make [ISOBlue](https://www.isoblue.org/) - a plug-and-play device that helped
-me collect CAN and GNSS logs from different kinds of ag machinery automagically
-for my Ph.D. research. I joined John Deere ISG after finishing my Ph.D. and
-worked on writing embedded software for high-precision GNSS receivers.
+I previously worked as Senior Navigation Engineer at John Deere ISG, where I worked on writing embedded software for high-precision GNSS receivers.
+
+I graduated from Purdue University in August 2021 with a PhD in Electrical Engineering. My past project included [ISOBlue](https://www.isoblue.org/) - a plug-and-play device that helped collect CAN and GNSS logs from ag machinery automagically for my PhD research. I deployed over 10 of them in the field.
 
 Here are a few technologies I've been using recently:
