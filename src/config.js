@@ -55,6 +55,8 @@ module.exports = {
     darkNavy: '#020c1b',
   },
 
+  googleAnalyticsID: 'UA-000000000-0', // Placeholder - replace with actual tracking ID
+
   srConfig: (delay = 200) => ({
     origin: 'bottom',
     distance: '20px',
