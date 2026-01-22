@@ -1,7 +1,7 @@
 ---
 date: '2021-11-07'
 title: 'Senior Data Scientist'
-company: 'Bayer Crop Science (formerly the Climate Corporation)'
+company: 'The Climate Corporation'
 location: 'St. Louis, MO'
 range: 'Nov 2022 - present'
 url: 'https://climate.com/'
