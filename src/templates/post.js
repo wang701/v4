@@ -36,7 +36,14 @@ const StyledPostContent = styled.div`
 `;
 
 const PostTemplate = ({ data, location }) => {
-  const { frontmatter, html } = data.markdownRemark;
+  const { markdownRemark } = data;
+
+  // Handle null data (e.g., draft posts)
+  if (!markdownRemark) {
+    return null;
+  }
+
+  const { frontmatter, html } = markdownRemark;
   const { title, date, tags } = frontmatter;
 
   return (
