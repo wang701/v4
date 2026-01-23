@@ -10,7 +10,7 @@ tech:
   - pandas
   - Matplotlib
   - Seaborn
-showInProjects: true
+showInProjects: false
 ---
 
 An effort to reverse-engineer CAN/ISOBUS data from agricultural machinery.

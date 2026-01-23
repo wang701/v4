@@ -1,8 +1,10 @@
 ---
 title: 'Hi, my name is'
 name: 'Yang Wang'
-subtitle: 'I build things for agriculture.'
+subtitle: 'I turn data into actionable insights.'
 buttonText: 'Get In Touch'
 ---
 
-I'm a Senior Data Scientist at the Climate Corporation. I have a strong interest in designing and building spatio-temporal data pipelines and solutions for agricultural machine data.
+I'm a Senior Data Scientist at the Climate Corporation. My daily tasks focus on
+building data transformers to turn spatio-temporal data from ag equipment into
+insights farmers can visualize and understand.
