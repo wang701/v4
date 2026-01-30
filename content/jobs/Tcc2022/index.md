@@ -7,5 +7,6 @@ range: 'Nov 2022 - present'
 url: 'https://climate.com/'
 ---
 
-- Architecting and building data pipelines for agricultural machine data aggregation, feature
-  engineering, and visualization, with a focus in vector layer pipelines
+- Architecting and building data pipelines on AWS stack for agricultural
+  machine data aggregation, transformation, feature engineering, and
+  visualization, with a focus in vector layer pipelines

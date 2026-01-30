@@ -10,7 +10,7 @@ tech:
 showInProjects: true
 ---
 
-Proposed a novel methodology for fully automated, low-cost, and high-resolution
-harvest performance analyses. This journal paper is one of the
-[winners](https://asabe.org/portals/0/apubs/superiorpaperawardwinners.pdf) of
-the ASABE's 2024 Superior Paper Awards.
+Proposed and implemented a novel methodology for fully automated, low-cost, and
+high-resolution harvest performance analyses.
+[Winner](https://asabe.org/portals/0/apubs/superiorpaperawardwinners.pdf) of
+ASABE's 2024 Superior Paper Awards.
